@@ -1,0 +1,2 @@
+$(".imgslide__slides").slick({slidesToShow:1,slidesToScroll:1,infinite:!0,autoplay:!0,autoplaySpeed:4e3,arrows:!1,dots:!0,touchThreshold:100,speed:480,pauseOnHover:!1,mobileFirst:!0,centerMode:!1,cssEase:"cubic-bezier(.37,1.02,.36,1.04)",responsive:[{breakpoint:679,settings:{slidesToShow:2}},{breakpoint:959,settings:{slidesToShow:3}}]});
+//# sourceMappingURL=imgslide.js.map

@@ -1,0 +1,2 @@
+$(".casestudylist__button").on("click",(function(s){s.preventDefault();var t=$(this);t.closest(".component").find(".casestudylist__hidden").addClass("casestudylist__hidden--extend"),t.css("display","none")}));
+//# sourceMappingURL=casestudylist.js.map

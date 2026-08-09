@@ -1,0 +1,2 @@
+(()=>{var t=document.querySelectorAll("input.text");t&&t.forEach((function(t){t.addEventListener("input",(function(){this.setAttribute("value",this.value)})),t.addEventListener("click",(function(){this.setAttribute("value",this.value)}))}))})();
+//# sourceMappingURL=forms.js.map

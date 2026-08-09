@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0d223e;
+      }
+
+      .cls-2 {
+        fill: #d1ddf5;
+      }
+    </style>
+  </defs>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect class="cls-2" x="2.75" y="1.95" width="3.72" height="5.44" rx=".56" ry=".56" transform="translate(-1.95 4.63) rotate(-45)"/>
+    <path class="cls-2" d="M8.9,7.88h1.08c.16,0,.29.13.29.29v2.95c0,.16-.13.29-.29.29h-1.08v-3.54h0Z" transform="translate(9.63 -3.96) rotate(45)"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-1" d="M7.13,10.55c-.4,0-.8-.15-1.11-.46L1.12,5.19c-.61-.61-.61-1.6,0-2.21l1.8-1.8c.59-.59,1.62-.59,2.21,0l4.9,4.9c.3.3.46.69.46,1.11s-.16.81-.46,1.11l-1.8,1.8c-.31.31-.71.46-1.11.46ZM4.03,1.22c-.28,0-.55.11-.75.31l-1.8,1.8c-.42.42-.42,1.09,0,1.51l4.9,4.9c.42.42,1.09.42,1.51,0l1.8-1.8c.2-.2.31-.47.31-.75s-.11-.55-.31-.75L4.78,1.53c-.2-.2-.47-.31-.75-.31Z"/>
+    <g>
+      <rect class="cls-1" x="5.63" y="7.83" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-3.89 6.76) rotate(-45)"/>
+      <rect class="cls-1" x="6.53" y="6.93" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-2.99 7.13) rotate(-45)"/>
+      <rect class="cls-1" x="7.44" y="6.02" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-2.09 7.51) rotate(-45)"/>
+      <rect class="cls-1" x="6.14" y="8.34" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-4.1 7.27) rotate(-45)"/>
+      <rect class="cls-1" x="7.04" y="7.43" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-3.2 7.64) rotate(-45)"/>
+      <rect class="cls-1" x="7.94" y="6.53" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-2.3 8.01) rotate(-45)"/>
+      <rect class="cls-1" x="6.65" y="8.84" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-4.31 7.77) rotate(-45)"/>
+      <rect class="cls-1" x="7.55" y="7.94" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-3.41 8.15) rotate(-45)"/>
+      <rect class="cls-1" x="8.45" y="7.04" width="1.16" height=".49" rx=".25" ry=".25" transform="translate(-2.51 8.52) rotate(-45)"/>
+    </g>
+    <rect class="cls-1" x="9.66" y="8.62" width=".54" height="1.38" transform="translate(-3.67 9.75) rotate(-45)"/>
+  </g>
+</svg>

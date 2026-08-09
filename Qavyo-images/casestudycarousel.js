@@ -1,0 +1,2 @@
+$(".casestudycarousel__slides--new").slick({slidesToShow:1,slidesToScroll:1,infinite:!0,autoplay:!1,arrows:!1,dots:!1,touchThreshold:100,mobileFirst:!0,cssEase:"cubic-bezier(.37,1.02,.36,1.04)",responsive:[{breakpoint:680,settings:{slidesToShow:3}}]});
+//# sourceMappingURL=casestudycarousel.js.map

@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Homepage",
+    "src": "/uk/",
+    "file": "index.html"
+  },
+  {
+    "name": "Retail POS",
+    "src": "/uk/systems/retail-pos/",
+    "file": "retail-pos.html"
+  },
+  {
+    "name": "Hospitality POS - Restaurant",
+    "src": "/uk/systems/hospitality-pos/restaurant/",
+    "file": "restaurant.html"
+  },
+  {
+    "name": "Restaurant POS Software",
+    "src": "/uk/systems/hospitality-pos/restaurant/software/",
+    "file": "restaurant-software.html"
+  },
+  {
+    "name": "Pricing / Software",
+    "src": "/uk/store/software/",
+    "file": "pricing.html"
+  },
+  {
+    "name": "App Store",
+    "src": "/uk/store/software/apps/",
+    "file": "app-store.html"
+  },
+  {
+    "name": "API",
+    "src": "/uk/store/software/apps/api/",
+    "file": "api.html"
+  },
+  {
+    "name": "Website Builder",
+    "src": "/uk/store/software/apps/website-builder/",
+    "file": "website-builder.html"
+  },
+  {
+    "name": "About Us",
+    "src": "/uk/contact-us/about/",
+    "file": "about.html",
+    "aliases": [
+      "/uk/about-us/"
+    ]
+  },
+  {
+    "name": "Contact Us",
+    "src": "/uk/contact-us/",
+    "file": "contact-us.html"
+  },
+  {
+    "name": "Privacy Policy",
+    "src": "/uk/contact-us/about/privacy-policy/",
+    "file": "privacy-policy.html",
+    "aliases": [
+      "/uk/privacy-policy/"
+    ]
+  },
+  {
+    "name": "Careers",
+    "src": "/uk/careers/",
+    "file": "careers.html"
+  },
+  {
+    "name": "Barber Shop POS",
+    "src": "/uk/systems/retail-pos/barber-shop/",
+    "file": "barber-shop.html"
+  },
+  {
+    "name": "Till Roll Accessory",
+    "src": "/uk/store/hardware/accessories/pro-pos-till-roll/",
+    "file": "till-roll.html"
+  },
+  {
+    "name": "Resources / Blog listing",
+    "src": "/uk/resources/",
+    "file": "blog.html"
+  },
+  {
+    "name": "Support",
+    "src": "/uk/contact-us/support/",
+    "file": "support.html"
+  },
+  {
+    "name": "Systems overview",
+    "src": "/uk/systems/",
+    "file": "systems.html"
+  },
+  {
+    "name": "Payment Processing",
+    "src": "/uk/payment-processing/",
+    "file": "payment-processing.html"
+  },
+  {
+    "name": "Enterprise",
+    "src": "/uk/enterprise/",
+    "file": "enterprise.html"
+  },
+  {
+    "name": "Cookie Policy",
+    "src": "/uk/contact-us/about/cookie-policy/",
+    "file": "cookie-policy.html",
+    "aliases": [
+      "/uk/cookie-policy/"
+    ]
+  },
+  {
+    "name": "Terms",
+    "src": "/uk/contact-us/about/terms-website/",
+    "file": "terms.html",
+    "aliases": [
+      "/uk/terms/"
+    ]
+  },
+  {
+    "name": "Testimonials",
+    "src": "/uk/about-us/testimonials/",
+    "file": "testimonials.html"
+  },
+  {
+    "name": "All Industries",
+    "src": "/uk/all-industries/",
+    "file": "all-industries.html"
+  },
+  {
+    "name": "Build Your System",
+    "src": "/uk/build-your-system/",
+    "file": "build-your-system.html",
+    "aliases": [
+      "/uk/build-your-system/?product=complete",
+      "/uk/build-your-system/?product=complete&variant=dual",
+      "/uk/build-your-system/?product=lite",
+      "/uk/build-your-system/?product=software"
+    ]
+  },
+  {
+    "name": "Partnerships",
+    "src": "/uk/contact-us/partnerships/",
+    "file": "partnerships.html"
+  },
+  {
+    "name": "Sales",
+    "src": "/uk/contact-us/sales/",
+    "file": "sales.html"
+  },
+  {
+    "name": "Countertop 2",
+    "src": "/uk/countertop-2/",
+    "file": "countertop-2.html"
+  },
+  {
+    "name": "Qavyo Capital",
+    "src": "/uk/epos-now-capital/",
+    "file": "qavyo-capital.html"
+  },
+  {
+    "name": "Air Device",
+    "src": "/uk/payment-processing/air-device/",
+    "file": "air-device.html"
+  },
+  {
+    "name": "Card Machines",
+    "src": "/uk/payment-processing/card-machines/",
+    "file": "card-machines.html"
+  },
+  {
+    "name": "Qavyo Payments Lite",
+    "src": "/uk/payment-processing/epos-now-payments-lite/",
+    "file": "qavyo-payments-lite.html"
+  },
+  {
+    "name": "Link Card Reader",
+    "src": "/uk/payment-processing/link-card-reader/",
+    "file": "link-card-reader.html"
+  },
+  {
+    "name": "Mobile Portable",
+    "src": "/uk/payment-processing/mobile-portable/",
+    "file": "mobile-portable.html"
+  },
+  {
+    "name": "Pay By Link",
+    "src": "/uk/payment-processing/pay-by-link/",
+    "file": "pay-by-link.html"
+  },
+  {
+    "name": "POS Comparisons",
+    "src": "/uk/pos-comparisons/",
+    "file": "pos-comparisons.html"
+  },
+  {
+    "name": "Press",
+    "src": "/uk/press/",
+    "file": "press.html"
+  },
+  {
+    "name": "Accessories",
+    "src": "/uk/store/hardware/accessories/",
+    "file": "accessories.html"
+  },
+  {
+    "name": "Caller ID",
+    "src": "/uk/store/hardware/accessories/caller-id/",
+    "file": "caller-id.html"
+  },
+  {
+    "name": "Pro Cash Drawer",
+    "src": "/uk/store/hardware/accessories/pro-cash-drawer/",
+    "file": "pro-cash-drawer.html"
+  },
+  {
+    "name": "POS Barcode Scanners",
+    "src": "/uk/store/hardware/pos-barcode-scanners/",
+    "file": "pos-barcode-scanners.html"
+  },
+  {
+    "name": "POS Printers",
+    "src": "/uk/store/hardware/pos-printers/",
+    "file": "pos-printers.html"
+  },
+  {
+    "name": "Deputy",
+    "src": "/uk/store/software/apps/deputy/",
+    "file": "deputy.html"
+  },
+  {
+    "name": "Qavyo Delivery",
+    "src": "/uk/store/software/apps/epos-now-delivery/",
+    "file": "qavyo-delivery.html"
+  },
+  {
+    "name": "Kitchen Display System",
+    "src": "/uk/store/software/apps/kitchen-display-system/",
+    "file": "kitchen-display-system.html"
+  },
+  {
+    "name": "Loyalty",
+    "src": "/uk/store/software/apps/loyalty/",
+    "file": "loyalty.html"
+  },
+  {
+    "name": "Loyalzoo",
+    "src": "/uk/store/software/apps/loyalzoo/",
+    "file": "loyalzoo.html"
+  },
+  {
+    "name": "Mailchimp",
+    "src": "/uk/store/software/apps/mailchimp/",
+    "file": "mailchimp.html"
+  },
+  {
+    "name": "My Business",
+    "src": "/uk/store/software/apps/my-business/",
+    "file": "my-business.html"
+  },
+  {
+    "name": "Opentable",
+    "src": "/uk/store/software/apps/opentable/",
+    "file": "opentable.html"
+  },
+  {
+    "name": "Order And Pay",
+    "src": "/uk/store/software/apps/order-and-pay/",
+    "file": "order-and-pay.html"
+  },
+  {
+    "name": "Quickbooks",
+    "src": "/uk/store/software/apps/quickbooks/",
+    "file": "quickbooks.html"
+  },
+  {
+    "name": "Shopify",
+    "src": "/uk/store/software/apps/shopify/",
+    "file": "shopify.html"
+  },
+  {
+    "name": "Xero",
+    "src": "/uk/store/software/apps/xero/",
+    "file": "xero.html"
+  },
+  {
+    "name": "Success Stories",
+    "src": "/uk/success-stories/",
+    "file": "success-stories.html"
+  },
+  {
+    "name": "Hospitality POS",
+    "src": "/uk/systems/hospitality-pos/",
+    "file": "hospitality-pos.html"
+  },
+  {
+    "name": "Bakery",
+    "src": "/uk/systems/hospitality-pos/bakery/",
+    "file": "bakery.html"
+  },
+  {
+    "name": "Cafe",
+    "src": "/uk/systems/hospitality-pos/cafe/",
+    "file": "cafe.html"
+  },
+  {
+    "name": "Hotel",
+    "src": "/uk/systems/hospitality-pos/hotel/",
+    "file": "hotel.html"
+  },
+  {
+    "name": "Takeaway",
+    "src": "/uk/systems/hospitality-pos/takeaway/",
+    "file": "takeaway.html"
+  },
+  {
+    "name": "Beauty Salon",
+    "src": "/uk/systems/retail-pos/beauty-salon/",
+    "file": "beauty-salon.html"
+  },
+  {
+    "name": "Clothing Store",
+    "src": "/uk/systems/retail-pos/clothing-store/",
+    "file": "clothing-store.html"
+  },
+  {
+    "name": "Convenience Store",
+    "src": "/uk/systems/retail-pos/convenience-store/",
+    "file": "convenience-store.html"
+  },
+  {
+    "name": "Grocery Store",
+    "src": "/uk/systems/retail-pos/grocery-store/",
+    "file": "grocery-store.html"
+  },
+  {
+    "name": "Vape Shop",
+    "src": "/uk/systems/retail-pos/vape-shop/",
+    "file": "vape-shop.html"
+  },
+  {
+    "name": "Tablet POS",
+    "src": "/uk/systems/tablet-pos/",
+    "file": "tablet-pos.html"
+  }
+]

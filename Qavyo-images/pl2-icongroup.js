@@ -1,0 +1,2 @@
+(()=>{function o(){var o=0;$(".pl2-icongroup .icongroup__list .slick-slide").each((function(){var i=$(this).outerHeight();i>o&&(o=i)})),$(".pl2-icongroup .icongroup__list .slick-slide").css("height",o+"px")}$(".pl2-icongroup .icongroup__list").slick({centerMode:!0,variableWidth:!0,arrows:!0,prevArrow:"<button class='slick__button--prev'></button>",nextArrow:"<button class='slick__button--next'></button>"}),$(".pl2-icongroup .icongroup__list").on("setPosition",(function(){o()})),$(window).on("resize",(function(){o()}))})();
+//# sourceMappingURL=pl2-icongroup.js.map
