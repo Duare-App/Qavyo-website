@@ -1,0 +1,135 @@
+{
+  "siteName": "Qavyo",
+  "navigation": {
+    "roadmapPages": [
+      "api.html", "app-store.html", "loyalty.html", "mailchimp.html", "my-business.html",
+      "order-and-pay.html", "partnerships.html", "pay-by-link.html", "payment-processing.html",
+      "press.html", "qavyo-delivery.html"
+    ],
+    "removedPages": [
+      "accessories.html", "air-device.html", "build-your-system.html", "caller-id.html",
+      "card-machines.html", "countertop-2.html", "deputy.html", "link-card-reader.html",
+      "loyalzoo.html", "mobile-portable.html", "opentable.html", "pos-barcode-scanners.html",
+      "pos-comparisons.html", "pos-printers.html", "pro-cash-drawer.html", "qavyo-capital.html",
+      "qavyo-payments-lite.html", "quickbooks.html", "shopify.html", "success-stories.html",
+      "tablet-pos.html", "testimonials.html", "till-roll.html", "xero.html"
+    ]
+  },
+  "homepage": {
+    "title": "Run every sale with Qavyo",
+    "eyebrow": "One connected business platform",
+    "description": "Inventory, POS, kitchen operations, online ordering, and your customer website in one place.",
+    "primaryAction": "Talk to sales",
+    "secondaryAction": "Explore Qavyo",
+    "faqTitle": "Questions about Qavyo",
+    "faqs": [
+      ["What is Qavyo?", "Qavyo is a connected operating system for retail and hospitality businesses. It brings inventory, POS, kitchen workflows, online ordering, and a customer website into one platform."],
+      ["Who is Qavyo for?", "Qavyo is built for restaurants, cafes, bakeries, takeaways, retail stores, salons, and growing multi-location businesses."],
+      ["What is included?", "Starter includes Inventory, POS, and KDS where relevant. Growth adds a customer website and online ordering. Specialist capabilities are available as add-ons."],
+      ["Can I try Qavyo first?", "Every business can explore Qavyo with a 30-day full-access trial. No card is required for the trial."],
+      ["How does pricing work?", "Qavyo has four core plans: Starter, Growth, Business, and Enterprise. Pricing is localized by country and selected add-ons."]
+    ],
+    "closingTitle": "Start with the tools your business needs",
+    "closingPrimaryAction": "View plans",
+    "closingSecondaryAction": "Talk to sales"
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "Simple, regional pricing",
+      "title": "Everything to run your business, without the clutter.",
+      "description": "Start with the tools your operation needs. Add capabilities only when they create value. Every plan begins with a 30-day full-access trial.",
+      "billingPeriods": ["Monthly", "Yearly", "Lifetime"],
+      "savingNote": "Yearly plans save more"
+    },
+    "plans": [
+      { "tag": "For getting started", "name": "Starter", "intro": "A complete foundation for a single location.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Inventory and POS", "Kitchen display system", "Floor map and reservations", "Tills and returns", "Unlimited staff users"] },
+      { "tag": "Most popular", "name": "Growth", "intro": "For businesses ready to sell online.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Everything in Starter", "Customer website", "Online ordering", "Online payments", "Delivery settings"] },
+      { "tag": "For growing teams", "name": "Business", "intro": "More control for multi-location operations.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Everything in Growth", "Multiple branches", "Advanced reports", "Priority support", "Centralised management"] },
+      { "tag": "Built around you", "name": "Enterprise", "intro": "A tailored Qavyo system for complex operations.", "price": "Let's talk", "priceNote": "Custom rollout, support and commercial terms.", "action": "Contact sales", "features": ["Everything in Business", "Custom integrations", "Dedicated onboarding", "Multi-site support", "Custom agreement"] }
+    ],
+    "addons": {
+      "eyebrow": "Optional capabilities",
+      "title": "Add only what makes sense for your business.",
+      "description": "Core operational tools stay in your plan. Specialist capabilities are separate, so you pay only for the value you use.",
+      "items": [
+        ["Coupons", "Owner-created discount codes for website checkout.", "Regional add-on price"],
+        ["Loyalty", "Points, rewards, tiers, stamps and campaigns.", "Regional add-on price"],
+        ["Staff App", "Your team’s Staff Portal as a branded app. The portal itself is in every plan.", "Regional add-on price"],
+        ["Payroll", "Payroll management and payslip tools.", "Regional add-on price"],
+        ["AI Analytics", "AI-assisted sales and operational insight.", "Regional add-on price"],
+        ["Mobile App", "Your branded iOS and Android app.", "Regional add-on price"],
+        ["SMS Marketing", "Available where supported by a local gateway.", "Usage-based pricing"]
+      ]
+    },
+    "comparison": {
+      "eyebrow": "At a glance",
+      "title": "Choose the plan that fits today.",
+      "description": "You can move up as your business grows. Staff users are unlimited on every plan, and the Staff Portal is included in all of them.",
+      "headers": ["Capability", "Starter", "Growth", "Business"],
+      "rows": [
+        ["Inventory, POS and KDS", "Included", "Included", "Included"],
+        ["Customer website and online ordering", "-", "Included", "Included"],
+        ["Staff Portal and Time Clock", "Included", "Included", "Included"],
+        ["Branded Staff App", "Paid add-on", "Paid add-on", "Paid add-on"],
+        ["Multiple branches", "-", "-", "Included"],
+        ["Advanced reporting", "-", "-", "Included"]
+      ]
+    },
+    "faqs": [
+      ["How does regional pricing work?", "Qavyo assigns a pricing region to your business from country and commercial context. The checkout amount is shown in the appropriate currency before you subscribe."],
+      ["What is included in the free trial?", "Every plan capability and add-on is available for 30 days. No card is required to start."],
+      ["Can I add features later?", "Yes. Add-ons such as Loyalty, Coupons, Payroll, Staff App, AI Analytics and Mobile App can be enabled when you need them."],
+      ["Do you limit staff users?", "No. Qavyo does not charge by staff seat. Add the people your business needs — the Staff Portal is included in every plan. Only the branded Staff App is a paid add-on."],
+      ["Are lifetime options available?", "Eligible plans and one-time software capabilities may offer a lifetime option. Services with continuing third-party costs remain recurring."]
+    ],
+    "footer": {
+      "title": "Run the business. Keep the control.",
+      "description": "Qavyo brings your operations, online ordering and growth tools into one dependable system.",
+      "action": "Start 30-day trial",
+      "note": "No card required. Regional pricing is confirmed before payment."
+    }
+  },
+  "pages": {
+    "about.html": { "title": "About Qavyo", "intro": "Qavyo helps ambitious retail and hospitality businesses run their daily operations in one connected platform." },
+    "all-industries.html": { "title": "Built for retail and hospitality", "intro": "Choose connected tools for the way your business sells, serves, and grows." },
+    "api.html": { "title": "Qavyo API", "intro": "Developer tools and integration options are planned for a future Qavyo release.", "roadmap": true },
+    "app-store.html": { "title": "Qavyo apps", "intro": "Additional Qavyo apps and extensions are planned for a future release.", "roadmap": true },
+    "bakery.html": { "title": "Qavyo for bakeries", "intro": "Manage fresh production, counter sales, inventory, and online orders from one place." },
+    "barber-shop.html": { "title": "Qavyo for barbers", "intro": "Keep sales, services, stock, customers, and daily operations organized." },
+    "beauty-salon.html": { "title": "Qavyo for salons", "intro": "Bring product sales, services, customer records, and reporting together." },
+    "blog.html": { "title": "Qavyo resources", "intro": "Guides and practical ideas for running a stronger business. New resources are on the way.", "roadmap": true },
+    "cafe.html": { "title": "Qavyo for cafes", "intro": "Move quickly from order to kitchen to checkout, with inventory that stays in step." },
+    "careers.html": { "title": "Careers at Qavyo", "intro": "We are building practical software for the businesses people rely on every day." },
+    "clothing-store.html": { "title": "Qavyo for clothing stores", "intro": "Run product, stock, sales, and customer operations with one connected system." },
+    "contact-us.html": { "title": "Talk to Qavyo", "intro": "Tell us about your business and we will help you choose the right Qavyo setup." },
+    "convenience-store.html": { "title": "Qavyo for convenience stores", "intro": "Keep fast-moving sales and stock visible throughout the day." },
+    "cookie-policy.html": { "title": "Cookie policy", "intro": "Qavyo cookie information will be published here before the public website launches." },
+    "enterprise.html": { "title": "Qavyo Enterprise", "intro": "A tailored Qavyo setup for multi-location and specialized operations." },
+    "grocery-store.html": { "title": "Qavyo for grocery stores", "intro": "Track products, pricing, stock movement, and high-volume checkout in one place." },
+    "hospitality-pos.html": { "title": "Hospitality POS by Qavyo", "intro": "Connected POS, kitchen workflows, inventory, and online ordering for hospitality businesses." },
+    "hotel.html": { "title": "Qavyo for hotels", "intro": "Bring food service, retail points of sale, and operational visibility together." },
+    "index.html": { "title": "Qavyo | Connected business software", "intro": "One platform for inventory, POS, online orders, and customer experiences." },
+    "kitchen-display-system.html": { "title": "Qavyo Kitchen Display System", "intro": "Keep kitchen teams focused with clear, live order workflows." },
+    "loyalty.html": { "title": "Qavyo Loyalty", "intro": "Customer rewards and repeat-visit tools are planned as a Qavyo add-on.", "roadmap": true },
+    "mailchimp.html": { "title": "Qavyo Marketing", "intro": "Customer messaging tools are planned for supported markets as a Qavyo add-on.", "roadmap": true },
+    "my-business.html": { "title": "Qavyo business management", "intro": "A broader business workspace is planned for a future Qavyo release.", "roadmap": true },
+    "order-and-pay.html": { "title": "Qavyo Order and Pay", "intro": "Order-and-pay experiences are planned for a future Qavyo release.", "roadmap": true },
+    "partnerships.html": { "title": "Qavyo partnerships", "intro": "Partnership information is being prepared.", "roadmap": true },
+    "pay-by-link.html": { "title": "Qavyo payment links", "intro": "Payment-link workflows are planned for a future Qavyo release.", "roadmap": true },
+    "payment-processing.html": { "title": "Online payments with Qavyo", "intro": "Qavyo supports the payment methods a business chooses for its online ordering website.", "roadmap": true },
+    "press.html": { "title": "Qavyo news", "intro": "Company news and announcements are on the way.", "roadmap": true },
+    "pricing.html": { "title": "Qavyo pricing", "intro": "Four core plans for the way your business operates and grows." },
+    "privacy-policy.html": { "title": "Privacy policy", "intro": "Qavyo privacy information will be published here before the public website launches." },
+    "qavyo-delivery.html": { "title": "Qavyo online ordering", "intro": "Online ordering for your customer website is planned as part of Qavyo Growth.", "roadmap": true },
+    "restaurant-software.html": { "title": "Restaurant software by Qavyo", "intro": "Operate front of house, kitchen, inventory, online orders, and your customer website with Qavyo." },
+    "restaurant.html": { "title": "Qavyo for restaurants", "intro": "Keep service, kitchen operations, stock, and online orders connected." },
+    "retail-pos.html": { "title": "Retail POS by Qavyo", "intro": "Run checkout, stock, products, and reporting with one connected retail platform." },
+    "sales.html": { "title": "Talk to Qavyo sales", "intro": "See how Qavyo can fit your business, locations, and operating needs." },
+    "support.html": { "title": "Qavyo support", "intro": "Support resources are being prepared for Qavyo customers." },
+    "systems.html": { "title": "The Qavyo platform", "intro": "A connected system for inventory, POS, KDS, online ordering, and your customer website." },
+    "takeaway.html": { "title": "Qavyo for takeaways", "intro": "Keep counter, kitchen, delivery, and online orders in sync." },
+    "terms.html": { "title": "Terms of use", "intro": "Qavyo terms will be published here before the public website launches." },
+    "vape-shop.html": { "title": "Qavyo for specialty retail", "intro": "Run products, stock, sales, and customer operations from one place." },
+    "website-builder.html": { "title": "Qavyo customer websites", "intro": "Give customers a branded website for browsing, ordering, and paying online." }
+  }
+}
