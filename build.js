@@ -77,6 +77,12 @@ function applyLogo(text) {
     return text;
 }
 
+function injectContentLayer(html) {
+    if (html.includes('src="qavyo-content.js"')) return html;
+    const tag = '<script src="qavyo-content.js" defer></script>';
+    return html.includes('</head>') ? html.replace('</head>', `\n${tag}\n</head>`) : tag + html;
+}
+
 const args = process.argv.slice(2);
 const DOWNLOAD = !args.includes('--no-download');
 const only = args.filter(a => !a.startsWith('--'));
@@ -638,7 +644,7 @@ function verify(builtFiles) {
         html = stripTracking(await localiseAssets(html));
         const linked = localiseLinks(html);
         html = applyLogo(rebrand(cleanup(linked.html)));
-        html = applyBrandContacts(html, contactLeftovers);
+        html = injectContentLayer(applyBrandContacts(html, contactLeftovers));
         html = html.replace(/<!--\s*(?:PASTE HERE:|[^>]*-> builds to )[\s\S]*?-->\s*/g, '');
         linked.unmapped.forEach(u => allUnmapped.add(u));
 

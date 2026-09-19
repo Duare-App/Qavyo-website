@@ -38,13 +38,13 @@
       "eyebrow": "Simple, regional pricing",
       "title": "Everything to run your business, without the clutter.",
       "description": "Start with the tools your operation needs. Add capabilities only when they create value. Every plan begins with a 30-day full-access trial.",
-      "billingPeriods": ["Monthly", "Yearly", "Lifetime"],
-      "savingNote": "Yearly plans save more"
+      "billingPeriods": ["Monthly", "Lifetime"],
+      "savingNote": "Lifetime pays once for permanent access"
     },
     "plans": [
-      { "tag": "For getting started", "name": "Starter", "intro": "A complete foundation for a single location.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Inventory and POS", "Kitchen display system", "Floor map and reservations", "Tills and returns", "Unlimited staff users"] },
-      { "tag": "Most popular", "name": "Growth", "intro": "For businesses ready to sell online.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Everything in Starter", "Customer website", "Online ordering", "Online payments", "Delivery settings"] },
-      { "tag": "For growing teams", "name": "Business", "intro": "More control for multi-location operations.", "price": "Regional pricing", "priceNote": "Price shown for your business region at checkout.", "action": "Start free trial", "features": ["Everything in Growth", "Multiple branches", "Advanced reports", "Priority support", "Centralised management"] },
+      { "tag": "For getting started", "name": "Starter", "intro": "A complete foundation for a single location.", "price": "$29 / mo", "priceNote": "$699 lifetime. Tier 2: $15/mo. Tier 1: $6/mo.", "action": "Start free trial", "features": ["A full functional website", "Inventory and POS", "Kitchen display system where relevant", "Floor map and reservations", "Tills, returns and basic reports"] },
+      { "tag": "Most popular", "name": "Growth", "intro": "For businesses ready to sell online.", "price": "$79 / mo", "priceNote": "$1,899 lifetime. Tier 2: $39/mo. Tier 1: $16/mo.", "action": "Start free trial", "features": ["Everything in Starter", "Online ordering", "Online payments", "Delivery settings", "Customer growth tools"] },
+      { "tag": "For growing teams", "name": "Business", "intro": "More control for multi-location operations.", "price": "$149 / mo", "priceNote": "$3,599 lifetime. Tier 2: $75/mo. Tier 1: $30/mo.", "action": "Start free trial", "features": ["Everything in Growth", "Multiple branches", "Advanced reports", "Priority support", "Centralised management"] },
       { "tag": "Built around you", "name": "Enterprise", "intro": "A tailored Qavyo system for complex operations.", "price": "Let's talk", "priceNote": "Custom rollout, support and commercial terms.", "action": "Contact sales", "features": ["Everything in Business", "Custom integrations", "Dedicated onboarding", "Multi-site support", "Custom agreement"] }
     ],
     "addons": {
@@ -54,7 +54,7 @@
       "items": [
         ["Coupons", "Owner-created discount codes for website checkout.", "Regional add-on price"],
         ["Loyalty", "Points, rewards, tiers, stamps and campaigns.", "Regional add-on price"],
-        ["Staff App", "Your team’s Staff Portal as a branded app. The portal itself is in every plan.", "Regional add-on price"],
+        ["Staff App", "Paid staff access and branded team app for clock-in, shifts and payslips.", "From $10/mo"],
         ["Payroll", "Payroll management and payslip tools.", "Regional add-on price"],
         ["AI Analytics", "AI-assisted sales and operational insight.", "Regional add-on price"],
         ["Mobile App", "Your branded iOS and Android app.", "Regional add-on price"],
@@ -64,13 +64,12 @@
     "comparison": {
       "eyebrow": "At a glance",
       "title": "Choose the plan that fits today.",
-      "description": "You can move up as your business grows. Staff users are unlimited on every plan, and the Staff Portal is included in all of them.",
+      "description": "You can move up as your business grows. Staff count is not a pricing lever; staff portal and staff app access are paid add-ons.",
       "headers": ["Capability", "Starter", "Growth", "Business"],
       "rows": [
         ["Inventory, POS and KDS", "Included", "Included", "Included"],
         ["Customer website and online ordering", "-", "Included", "Included"],
-        ["Staff Portal and Time Clock", "Included", "Included", "Included"],
-        ["Branded Staff App", "Paid add-on", "Paid add-on", "Paid add-on"],
+        ["Staff Portal and Staff App", "Paid add-on", "Paid add-on", "Paid add-on"],
         ["Multiple branches", "-", "-", "Included"],
         ["Advanced reporting", "-", "-", "Included"]
       ]
@@ -79,7 +78,7 @@
       ["How does regional pricing work?", "Qavyo assigns a pricing region to your business from country and commercial context. The checkout amount is shown in the appropriate currency before you subscribe."],
       ["What is included in the free trial?", "Every plan capability and add-on is available for 30 days. No card is required to start."],
       ["Can I add features later?", "Yes. Add-ons such as Loyalty, Coupons, Payroll, Staff App, AI Analytics and Mobile App can be enabled when you need them."],
-      ["Do you limit staff users?", "No. Qavyo does not charge by staff seat. Add the people your business needs — the Staff Portal is included in every plan. Only the branded Staff App is a paid add-on."],
+      ["Do you limit staff users?", "No. Staff count is not a pricing lever. Staff Portal and Staff App access are sold as paid add-ons when a business needs that workflow."],
       ["Are lifetime options available?", "Eligible plans and one-time software capabilities may offer a lifetime option. Services with continuing third-party costs remain recurring."]
     ],
     "footer": {
