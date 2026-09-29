@@ -156,10 +156,10 @@ the menu links to them stay .
 | Page | Epos Now URL | Local file | Status |
 |------|-------------|-----------|--------|
 | **Testimonials** | `/uk/about-us/testimonials/` | `testimonials.html` | ⬜ Todo |
-| **All Industries** | `/uk/all-industries/` | `all-industries.html` | ⬜ Todo |
+| **All Industries** | `/uk/all-industries/` | `all-industries.html` | ✅ Done |
 | **Build Your System** | `/uk/build-your-system/` | `build-your-system.html` | ⬜ Todo |
-| **Partnerships** | `/uk/contact-us/partnerships/` | `partnerships.html` | ⬜ Todo |
-| **Sales** | `/uk/contact-us/sales/` | `sales.html` | ⬜ Todo |
+| **Partnerships** | `/uk/contact-us/partnerships/` | `partnerships.html` | ✅ Done |
+| **Sales** | `/uk/contact-us/sales/` | `sales.html` | ✅ Done |
 | **Countertop 2** | `/uk/countertop-2/` | `countertop-2.html` | ⬜ Todo |
 | **Qavyo Capital** | `/uk/epos-now-capital/` | `qavyo-capital.html` | ⬜ Todo |
 | **Air Device** | `/uk/payment-processing/air-device/` | `air-device.html` | ⬜ Todo |
@@ -167,38 +167,38 @@ the menu links to them stay .
 | **Qavyo Payments Lite** | `/uk/payment-processing/epos-now-payments-lite/` | `qavyo-payments-lite.html` | ⬜ Todo |
 | **Link Card Reader** | `/uk/payment-processing/link-card-reader/` | `link-card-reader.html` | ⬜ Todo |
 | **Mobile Portable** | `/uk/payment-processing/mobile-portable/` | `mobile-portable.html` | ⬜ Todo |
-| **Pay By Link** | `/uk/payment-processing/pay-by-link/` | `pay-by-link.html` | ⬜ Todo |
+| **Pay By Link** | `/uk/payment-processing/pay-by-link/` | `pay-by-link.html` | ✅ Done |
 | **POS Comparisons** | `/uk/pos-comparisons/` | `pos-comparisons.html` | ⬜ Todo |
-| **Press** | `/uk/press/` | `press.html` | ⬜ Todo |
+| **Press** | `/uk/press/` | `press.html` | ✅ Done |
 | **Accessories** | `/uk/store/hardware/accessories/` | `accessories.html` | ⬜ Todo |
 | **Caller ID** | `/uk/store/hardware/accessories/caller-id/` | `caller-id.html` | ⬜ Todo |
 | **Pro Cash Drawer** | `/uk/store/hardware/accessories/pro-cash-drawer/` | `pro-cash-drawer.html` | ⬜ Todo |
 | **POS Barcode Scanners** | `/uk/store/hardware/pos-barcode-scanners/` | `pos-barcode-scanners.html` | ⬜ Todo |
 | **POS Printers** | `/uk/store/hardware/pos-printers/` | `pos-printers.html` | ⬜ Todo |
 | **Deputy** | `/uk/store/software/apps/deputy/` | `deputy.html` | ⬜ Todo |
-| **Qavyo Delivery** | `/uk/store/software/apps/epos-now-delivery/` | `qavyo-delivery.html` | ⬜ Todo |
-| **Kitchen Display System** | `/uk/store/software/apps/kitchen-display-system/` | `kitchen-display-system.html` | ⬜ Todo |
-| **Loyalty** | `/uk/store/software/apps/loyalty/` | `loyalty.html` | ⬜ Todo |
+| **Qavyo Delivery** | `/uk/store/software/apps/epos-now-delivery/` | `qavyo-delivery.html` | ✅ Done |
+| **Kitchen Display System** | `/uk/store/software/apps/kitchen-display-system/` | `kitchen-display-system.html` | ✅ Done |
+| **Loyalty** | `/uk/store/software/apps/loyalty/` | `loyalty.html` | ✅ Done |
 | **Loyalzoo** | `/uk/store/software/apps/loyalzoo/` | `loyalzoo.html` | ⬜ Todo |
-| **Mailchimp** | `/uk/store/software/apps/mailchimp/` | `mailchimp.html` | ⬜ Todo |
-| **My Business** | `/uk/store/software/apps/my-business/` | `my-business.html` | ⬜ Todo |
+| **Mailchimp** | `/uk/store/software/apps/mailchimp/` | `mailchimp.html` | ✅ Done |
+| **My Business** | `/uk/store/software/apps/my-business/` | `my-business.html` | ✅ Done |
 | **Opentable** | `/uk/store/software/apps/opentable/` | `opentable.html` | ⬜ Todo |
-| **Order And Pay** | `/uk/store/software/apps/order-and-pay/` | `order-and-pay.html` | ⬜ Todo |
+| **Order And Pay** | `/uk/store/software/apps/order-and-pay/` | `order-and-pay.html` | ✅ Done |
 | **Quickbooks** | `/uk/store/software/apps/quickbooks/` | `quickbooks.html` | ⬜ Todo |
 | **Shopify** | `/uk/store/software/apps/shopify/` | `shopify.html` | ⬜ Todo |
 | **Xero** | `/uk/store/software/apps/xero/` | `xero.html` | ⬜ Todo |
 | **Success Stories** | `/uk/success-stories/` | `success-stories.html` | ⬜ Todo |
-| **Hospitality POS** | `/uk/systems/hospitality-pos/` | `hospitality-pos.html` | ⬜ Todo |
-| **Bakery** | `/uk/systems/hospitality-pos/bakery/` | `bakery.html` | ⬜ Todo |
+| **Hospitality POS** | `/uk/systems/hospitality-pos/` | `hospitality-pos.html` | ✅ Done |
+| **Bakery** | `/uk/systems/hospitality-pos/bakery/` | `bakery.html` | ✅ Done |
 | **Bar** | `/uk/systems/hospitality-pos/bar/` | `bar.html` | ⬜ Todo |
-| **Cafe** | `/uk/systems/hospitality-pos/cafe/` | `cafe.html` | ⬜ Todo |
-| **Hotel** | `/uk/systems/hospitality-pos/hotel/` | `hotel.html` | ⬜ Todo |
-| **Takeaway** | `/uk/systems/hospitality-pos/takeaway/` | `takeaway.html` | ⬜ Todo |
-| **Beauty Salon** | `/uk/systems/retail-pos/beauty-salon/` | `beauty-salon.html` | ⬜ Todo |
-| **Clothing Store** | `/uk/systems/retail-pos/clothing-store/` | `clothing-store.html` | ⬜ Todo |
-| **Convenience Store** | `/uk/systems/retail-pos/convenience-store/` | `convenience-store.html` | ⬜ Todo |
-| **Grocery Store** | `/uk/systems/retail-pos/grocery-store/` | `grocery-store.html` | ⬜ Todo |
-| **Vape Shop** | `/uk/systems/retail-pos/vape-shop/` | `vape-shop.html` | ⬜ Todo |
+| **Cafe** | `/uk/systems/hospitality-pos/cafe/` | `cafe.html` | ✅ Done |
+| **Hotel** | `/uk/systems/hospitality-pos/hotel/` | `hotel.html` | ✅ Done |
+| **Takeaway** | `/uk/systems/hospitality-pos/takeaway/` | `takeaway.html` | ✅ Done |
+| **Beauty Salon** | `/uk/systems/retail-pos/beauty-salon/` | `beauty-salon.html` | ✅ Done |
+| **Clothing Store** | `/uk/systems/retail-pos/clothing-store/` | `clothing-store.html` | ✅ Done |
+| **Convenience Store** | `/uk/systems/retail-pos/convenience-store/` | `convenience-store.html` | ✅ Done |
+| **Grocery Store** | `/uk/systems/retail-pos/grocery-store/` | `grocery-store.html` | ✅ Done |
+| **Vape Shop** | `/uk/systems/retail-pos/vape-shop/` | `vape-shop.html` | ✅ Done |
 | **Tablet POS** | `/uk/systems/tablet-pos/` | `tablet-pos.html` | ⬜ Todo |
 
 ---
